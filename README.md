@@ -1,2 +1,2 @@
 # Login_web_page
-Simple Logn Page using HTML and CSS
+Simple Login Page using HTML and CSS
